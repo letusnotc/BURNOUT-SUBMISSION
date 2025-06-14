@@ -17,3 +17,4 @@ The goal of the competition is to accurately predict `Lap_Time_Seconds` for Moto
 ---
 
 All code, preprocessing logic, and key-based prediction steps are included in this repository.
+Here is link to Kaggle Notebook : https://www.kaggle.com/code/arnavsuiiiiiiiiiiii/burnout-final
